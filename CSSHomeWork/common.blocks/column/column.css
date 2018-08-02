@@ -1,0 +1,5 @@
+.column{
+    border: 2px solid black;
+    flex-basis: 420px;
+    flex-grow: 1;
+}

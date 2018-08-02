@@ -1,0 +1,10 @@
+.row{
+    padding-left: 3px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.row img{
+    width: 90%;
+    height: 90%;
+}

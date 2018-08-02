@@ -1,0 +1,9 @@
+.row_imaged{
+    position: relative;
+}
+
+.row_imaged span{
+    position: absolute;
+    bottom: 0px;
+    right: 5px;
+}

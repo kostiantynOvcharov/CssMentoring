@@ -1,0 +1,12 @@
+@import url('common.blocks/column/column.css');
+@import url('common.blocks/menu/menu.css');
+@import url('common.blocks/row/__info/__price/row__info__price.css');
+@import url('common.blocks/row/__info/row__info.css');
+@import url('common.blocks/row/__info_short/row__info_short.css');
+@import url('common.blocks/row/__item/_bold/row__item_bold.css');
+@import url('common.blocks/row/__item/_short/row__item_short.css');
+@import url('common.blocks/row/__item/row__item.css');
+@import url('common.blocks/row/_imaged/row_imaged.css');
+@import url('common.blocks/row/_top/row_top.css');
+@import url('common.blocks/row/row.css');
+@import url('common.blocks/wrapper/wrapper.css');
