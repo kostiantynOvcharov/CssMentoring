@@ -1,0 +1,15 @@
+.menu-block__title{
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    display: flex;
+    justify-content: space-between;
+}
+
+.menu-block__title h2{
+    color: #0FAC4D;
+}
+
+.menu-block__title img{
+    width: 90%;
+    height: 90%;
+}

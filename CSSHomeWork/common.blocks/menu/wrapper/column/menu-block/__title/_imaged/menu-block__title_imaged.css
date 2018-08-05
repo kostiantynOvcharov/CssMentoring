@@ -1,8 +1,8 @@
-.row_imaged{
+.menu-block__title_imaged{
     position: relative;
 }
 
-.row_imaged span{
+.menu-block__title_imaged span{
     position: absolute;
     bottom: 0px;
     right: 5px;
